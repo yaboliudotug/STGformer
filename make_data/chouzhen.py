@@ -23,3 +23,6 @@ for video_name in video_ls:
         shutil.rmtree(save_frame_dir)
     os.mkdir(save_frame_dir)
     chouzhen(video_path, save_frame_dir)
+
+os.path.isdir
+''.endswith
